@@ -5,7 +5,7 @@ You went to the fridge to get some cold water. You were lucky enough and you fou
 While you were enjoying this finding and playing with your bottle in the air. Ding dong, somebody ring at the door.
 
 You've got **N** unexpected guests, all of them staring at the bottle in your hand, and suddenly shouting all once "we are thirsty".
-You let them in, and all of you gathered in the same room around a table and everybody asked you to drink.
+You let them in, and you all gathered in the same room around a table and everybody asked you to drink.
 
 ## Now the problem :
 The bottle (½ littre) can **only fill 3 cups**. 
