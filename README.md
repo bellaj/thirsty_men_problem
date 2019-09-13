@@ -21,9 +21,9 @@ Besides your main rule, you agreed upon the following terms:
 - It's only you who can pour water
 - The cups can be filled only if all of them are put .
 - No timer will be used and the game doesn't have a timeout.
-- It's up to you to determine who is the first depositor/winner in case they race to put it.
-- Cups put in the same time are considered in sequentiel positions (it’s you who will define the order).
-- You are honest :penguin:
+- It's up to you to determine who is the first depositor/winner in case they race to put the first one.
+- Cups deposited in the same time are considered in sequentiel positions (it’s you who will define the order).
+- You will act with honesty :penguin:
 
 The question : **In this context, how would your guests behave**, if you know that they are smart and can cheat :smiling_imp: (but cannot kill each other :skull:). Would there be a good compromise?
 
