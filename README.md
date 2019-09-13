@@ -25,7 +25,7 @@ Besides your main rule, you agreed upon the following terms:
 - Cups deposited in the same time are considered in sequentiel positions (it’s you who will define the order).
 - You will act with honesty :penguin:
 
-The question : **In this context, how would your guests behave**, if you know that they are smart and can cheat :smiling_imp: (but cannot kill each other :skull:). Would there be a good compromise?
+The question : **In this context, how would your guests behave**, if you know that they are smart and can cheat :smiling_imp: (but cannot kill each other :skull:). Would there be a good compromise avoiding a deadlock?
 
 
 ## If you have questions 
