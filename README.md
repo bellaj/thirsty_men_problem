@@ -30,5 +30,5 @@ The question : **In this context, how would your guests behave**, if you know th
 If you require additional information about the problem please open an issue in this repository. I'll provide the necessary clarifications
 
 ## How to propose solutions
-Please fork the repository, write your solution in the solution.txt file and then propose a [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork). If the answer is correct the pull request will be accepted and you'll be added as contributor.
+Please fork/clone the repository, write your solution in a txt file under solutions folder and then propose a [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork). If the answer is correct the pull request will be accepted and you'll be added as contributor.
 
