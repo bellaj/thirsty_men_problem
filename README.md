@@ -16,7 +16,7 @@ You gave them **each an empty cup** and told them :
 
 ![illustration](https://i.ibb.co/wNsFxpw/ilustration.png)
 
-Besides this main rule you've set other rules:
+Besides your main rule, you agreed upon the following terms:
 
 - It's only you who can pour water
 - The cups can be filled only if all of them are put .
