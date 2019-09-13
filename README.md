@@ -11,7 +11,7 @@ You let them in, and all of you gathered in the same room around a table and eve
 The bottle (½ littre) can **only fill 3 cups**. 
 
 To overcome this problem you've ingeniously proposed a solution.
-You have gave them **each an empty cup** and told them : 
+You gave them **each an empty cup** and told them :
 >”Look guys I will drink a cup and give you 2 cups of water. But, I'll fill only the first and the last cups put on the table before me. The intermediaries cups will remain empty”
 
 ![illustration](https://i.ibb.co/wNsFxpw/ilustration.png)
