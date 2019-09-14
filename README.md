@@ -1,6 +1,6 @@
 # Thirsty men problem 
 
-On a hot day a water outage occured while you were feeling very thirsty.
+On a hot day, a water outage occured while you were feeling very thirsty.
 You went to the fridge to get some cold water. You were lucky enough and you found a single bottle of water left. 
 While you were enjoying this finding and playing with your bottle in the air. Ding dong, somebody rang at the door.
 
