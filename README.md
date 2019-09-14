@@ -25,8 +25,10 @@ Besides your main rule, you agreed upon the following terms:
 - Cups deposited in the same time are considered in sequentiel positions (it’s you who will define the order).
 - You will act with honesty :penguin:
 
+
 The question : **In this context, how would your guests behave**, if you know that they are smart and can cheat :smiling_imp: (but cannot kill each other :skull:)? **Would there be a good compromise avoiding a deadlock?**
 
+To make the situation more real let's assume that **2<N<15** 
 
 ## If you have questions 
 If you require additional information about the problem please open an issue in this repository. I'll provide the necessary clarifications
