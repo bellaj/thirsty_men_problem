@@ -20,7 +20,7 @@ Besides your main rule, you agreed upon the following terms:
 
 - It's only you who can pour water
 - The cups can be filled only if all of them are put .
-- The cups should be put in a row (the first one is the head of the row and the last is the tail). We can assume that the pourer has marked the final position (first place, second,.. last), so each cup should be placed in one of these positions.
+- The cups should be put in a row (the first one is the head of the row and the last is the tail). We can assume that the pourer has marked the final cups positions (first place, second,.. last), so each cup should be placed in one of these positions.
 - No timer will be used and the game doesn't have a timeout.
 - It's up to you to determine who is the first depositor/winner in case they race to put the first one.
 - Cups deposited in the same time are considered in sequentiel positions (it’s you who will define the order).
