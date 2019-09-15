@@ -26,7 +26,7 @@ Besides your main rule, you agreed upon the following terms:
 - You will act with honesty :penguin:
 - A guest can drink only from his cup
 
-The question : **In this context, how would your guests behave**, if you know that they are smart and can cheat :smiling_imp: (but cannot kill each other :skull:)? **Would there be a good compromise avoiding a deadlock?**
+The question : **In this context, how would your guests behave**, if you know that they are smart and can cheat :smiling_imp: (but cannot kill each other :skull:)? **Would there be a good compromise (wining strategy) avoiding a deadlock?**
 
 To make the situation more real let's assume that **2<N<15** 
 
