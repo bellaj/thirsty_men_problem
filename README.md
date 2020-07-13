@@ -24,8 +24,8 @@ Besides your main rule, you agreed upon the following terms:
 - The cups should be put in a row (the first one is the head of the row and the last is the tail). We can assume that the pourer has marked the final spots (first place, second,.. last), so each cup should be placed in one of these positions.
 - No timer will be used and the game doesn't have a timeout. **However**, if a timeout can help solve this problem you can set one (1 < x days).
 - It's up to you to determine who is the first depositor/winner in case they race to put the first cup (in the first position).
-- You will act honestly :penguin:
-- A guest can drink only from his cup
+- You will act honestly :penguin: , however the guests can behave honestly or dishonestly
+- A guest can drink only from his cup, be he can give his cup to another player.
 
 The question : **In this context, how would your guests behave**, if you know that they are smart and can cheat :smiling_imp: (but cannot kill each other :skull:)? **Would there be a good compromise (winning strategy) avoiding a deadlock?**
 
