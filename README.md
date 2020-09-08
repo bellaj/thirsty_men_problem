@@ -9,11 +9,11 @@ You had got **N** unexpected guests, all of them staring at the bottle in your h
 You let them in, and you all gathered in the same room around a table and everybody asked you to drink.
 
 ## Now the problem :
-The bottle (½ littre) can **only fill 3 cups**. 
+The bottle can **only fill 3 cups**. 
 
 To overcome this problem you've ingeniously proposed a solution.
 You gave them **each an empty cup** and told them :
->”Look guys I will drink a cup and give you the 2 remaining cups of water. But, I'll fill only the first and the last cups put on the table before me. The intermediaries cups will remain empty”
+>”Look guys I will drink a cup and give you the 2 remaining cups of water. But, **I'll fill only the first and the last cups** put on the table before me. The intermediaries cups will remain empty”
 
 ![illustration](https://i.ibb.co/wNsFxpw/ilustration.png)
 
