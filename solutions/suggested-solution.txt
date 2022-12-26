@@ -1,0 +1,41 @@
+﻿—
+Rida En-nasry
+ennasry.rida@gmail.com
+— 
+
+
+Yeah the first thing that comes to mind is the deadlock situation where each guest is waiting for other guests to put their cups 
+first so they can place theirs at the winning place. One simple way to combat the scenario is by a timeout but still doing that 
+would still result in a race and bad behaviour at the last second of the game. So given the nature of the game I suggest 
+the following solution which is based on two principles 
+
+1) prioritising  the thirstiest guests 
+2) incentivizing good behaviour and punishing bad ones.
+
+The game has a time limit of one hour. During this time. The guests must try to earn as many points. Or “H2O credits” as possible. 
+At the end of the game. The guests with the most points get to place their cups first. These are the ways that guests can earn 
+"H2O credits": 
+
+ 
+* if you really really need it, you have a bigger chance of getting it, so we’ll start by first giving the thirstiest guest a higher
+  chance of winning. If a guest can prove he’s the thirstiest  among other guests he’ll be rewarded 3 H2O credits to start with.
+  (let’s call it Proof-of-thirst). But the question is how can a guest prove he’s thirsty? And he’s thirstier than others ? 
+  We can't depend on self-report from guests as they may be dishonest, so I believe the best way to prove thirst is by relying 
+  on objective measures and by delegating the physiology of the guest to report for him.  The guest who has the strongest
+  physical signs of thirst, (dry mouth. Skin elasticity and heart rate.)  is the guest who gets to get the proof-of-thirst 
+  H2O credits. 
+
+* In order to encourage collaboration and discourage cheating we need to implement a system that rewards good behaviour and 
+  discourages bad behaviour. For example if a guest some examples are:
+    * If a guest shares his cup with another guest he gets to earn 2 H2O credits for the next game.
+    * If a guest helps resolve a dispute between other guests he earns 1 water credit.
+    * If a guest finds a new supply of water he earns 5 H2O credits.
+    On the other hand if a guest tries to cheat or harm the system in any way he’ll be deducted H2O credits. 
+    For example if a guest falsely tries to prove he’s thirsty with physical signs of dehydration to support his claim he’ll 
+    be deducted two points. 
+
+
+The game is a microcosm of the larger world we live in. It highlights the inherent selfishness and competitiveness in human nature 
+but if we can prioritise needs and incentivize collaboration we can create a more harmonious society. 
+“Proof-of-thirst” system serves as a way to objectively assess the level of need; the “water credit” system encourages good 
+behaviour and punishes bad behaviour.
