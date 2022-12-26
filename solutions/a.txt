@@ -1,0 +1,8 @@
+as a host i am gonna expect from the guests both, honestly and is honestly 
+so to solve this matter I'll make a race for the first one to put the cup on table and to make the competition fair i will add a timeout for the game if timeout < 0 then i will count only the cups on the table, others will be eliminated but i think The cups can be filled only if all of them are put on the table so if the time is out the others will putt their cups between the 1 > others > and last one the table as i read on issues, the guest is not obligated to put in specific place except the first and the last one
+game rules:
+        * if the timeout is end any player didn't put the cup on the table in that timeout will be putted between "first cup on the table > other players > last cup on the table"
+        * if a player tried to cheat by getting another player's cup, he will be putted in position[N/2].
+
+**note**
+        i thought it is possible to code it and the players will be the threads in code but i forgot threads don't cheat and they don't need a timeout
