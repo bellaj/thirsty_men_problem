@@ -1,0 +1,13 @@
+One possible solution is :
+
+1. Ask each one of the thirsty men to rate his thirst on a scale from 1 to 5, this way we will be able to quantify each man's thirst.
+
+2. Then, we can make the men stand by ascending order of their level of thirst, this way each man will be associated with one cup.
+
+In case if all men are dishonest and choose a level 5 of thirst, then the water will be distributed equally.
+
+3. Since I'm the only one who can pour the water, I will redistribute the water in the two cups in all the cups depending on the level of thirst the owner of each cup has.
+
+This way, we can consider the possibility of dishonesty by the thirsy men, if all them choose a level 5 of thirst, then they will all get the same amount of water.
+
+However if they are honest, and rate their level of thirst honestly, then every man will get the water he needs.
