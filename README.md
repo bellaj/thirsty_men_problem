@@ -25,7 +25,7 @@ Besides your main rule, you agreed upon the following terms:
 - No timer will be used and the game doesn't have a timeout. **However**, if a timeout can help solve this problem you can set one (1 < x days).
 - It's up to you to determine who is the first depositor/winner in case they race to put the first cup (in the first position).
 - You will act honestly :penguin: , however the guests can behave honestly or dishonestly
-- A guest can drink only from his cup, be he can give his cup to another player.
+- A guest can drink only from his cup, but he can give his cup to another player.
 
 The question : **In this context, how would your guests behave**, if you know that they are smart and can cheat :smiling_imp: (but cannot kill each other :skull:)? **Would there be a good compromise (winning strategy) avoiding a deadlock?**
 
