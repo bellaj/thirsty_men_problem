@@ -26,6 +26,7 @@ Besides your main rule, you agreed upon the following terms:
 - It's up to you to determine who is the first depositor/winner in case they race to put the first cup (in the first position).
 - You will act honestly :penguin: , however the guests can behave honestly or dishonestly
 - A guest can drink only from his cup, but he can give his cup to another player.
+- The host is only responsible of pouring water. He is not to be involved in your solution. He ensures that the rules as executed as defined.
 
 The question : **In this context, how would your guests behave**, if you know that they are smart and can cheat :smiling_imp: (but cannot kill each other :skull:)? **Would there be a good compromise (winning strategy) avoiding a deadlock?**
 
