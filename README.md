@@ -32,10 +32,14 @@ The question : **In this context, how would your guests behave**, if you know th
 
 To make the situation more real let's assume that **2<N<15** 
 
+
 ## If you have questions 
 If you require additional information about the problem please open an issue in this repository. I'll provide the necessary clarifications
 
 ## How to propose solutions
 Please fork/clone the repository, write your solution in a .txt file under the /solutions folder and then propose a [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork). If the answer is correct the pull request will be accepted and you'll be added as **contributor**.
+
+# This problem is not a simple riddle but it requires a creative mind
+
 
 
