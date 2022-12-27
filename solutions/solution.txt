@@ -1,0 +1,5 @@
+It is likely that your guests will try to cheat and find ways to get more water for themselves. One strategy that they might use is to try to put their cups in the first and last positions, hoping to get the filled cups. They might also try to collaborate with each other and coordinate their actions in order to maximize the amount of water they receive.
+
+One way to avoid a deadlock and ensure that a good compromise is reached is to set up a system of rewards and punishments. For example, you could reward the first and last depositors with an additional cup of water, while punishing any guests who try to cheat by withholding their cup of water. This way, there is an incentive for guests to behave honestly and play by the rules, rather than trying to cheat and take more than their fair share of water.
+
+Alternatively, you could set up a timer and allow the guests to race to put their cups in the first and last positions. This would create a more fair and transparent system for determining who gets the filled cups, as everyone would have an equal chance to win.
