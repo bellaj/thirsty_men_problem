@@ -1,0 +1,2 @@
+They could decide to put their cups in the first and last positions only without cups in the middle.
+If there is a deadlock, a timer could be used to determine the first and last depositors.
