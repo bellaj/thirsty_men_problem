@@ -1,0 +1,6 @@
+Each guest is given an empty cup and is told that the cups can be filled only if all of them are put on the table in a row (first place, second, etc.).
+The guests are told that the first and last cups placed on the table will be filled with water, while the intermediate cups will remain empty.
+The guests are allowed to collaborate and coordinate their actions in order to maximize the amount of water they receive. For example, they could decide to put their cups in the first and last positions, or they could try to persuade other guests to give them their cups.
+If the guests are unable to come to a consensus and there is a deadlock, a timer could be used to determine the first and last depositors in a fair and transparent manner.
+
+This way if the guests adhere by the rules, they are rewarded the maximum amount of water
