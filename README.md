@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Problem-not%20solved%20yet-yellow">
+
 # Thirsty men problem 
 
 ## The scene
