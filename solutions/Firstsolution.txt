@@ -1,1 +1,19 @@
+This problem consists of a group of N guests that are supposed to split/share a very limited amount of water (2 cups) following a set of rules set by the host, where only the first and last guests to put their cups at the table will get their cups filled.
 
+## The main problem:
+
+After the first cup (head of the row) is placed on the table, there will be no incentive for the other guests to put their cup on the table, which will lead every guest to wait infinitely for others to put their cups, leading to a deadlock problem.
+
+And since the guests can be smart and dishonest, a lottery or any game that counts on agreements between the guests will not work here, since there is nothing stopping the losers from cheating and abstaining from putting their cups thus stalling the game forever.
+
+## Some possible solutions:
+
+The first solution can be a very centralized consensus mechanism that needs the host's (or any trusted third-party) intervention: since only the host can pour water, he can require the guests to give out their cups(and they should hand them to him as a proof of good will and honesty) to him before before choosing the two winners (either through merit or randomization).
+
+Another way to solve the problem of cheating and deadlock in the guests' situation using a deterministic approach would be to use a protocol or algorithm that ensures that the winner is only chosen once all of the cups are placed on the table:
+
+- Encrypt the position of the cups, then only decrypt them after everyone's cup is on the table, this will at least prevent any bad intender from not putting their cup if he is not the winner).
+- Put labels in the cups that identify each cup and its owner, but hide those labels to be only revealed by the host after choosing the order of the labeled cups (this will also ensure that the guests have a fair chance and that the results will be revealed after all cups are in their places preventing any deadlock or malice from them)
+- A technical solution such as smart contracts or blockchain to enforce the rules and ensure that the game is completed fairly, and also penalize any bad actors. (That will provide a transparent and verifiable record of the game that can be used to resolve disputes.)
+
+A short timer may also be used to force the game to terminate and that is by considering the last cup before the timer ends is the tail and disqualifying any cup that comes after.
