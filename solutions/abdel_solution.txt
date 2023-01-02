@@ -1,0 +1,7 @@
+ we can identify the slots of the cups with hash and timestamp
+
+each participant will sign the hash (BLS signature)
+
+timestamps will help us to determine who came first and last and the signature help us detrmine the ownership of the cup
+
+we can make a slashing system for not participating after the timeout of the ceremony 
