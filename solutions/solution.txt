@@ -1,0 +1,6 @@
+
+When I first read the  Thirsty_men_problem, the first solution that came into my mind was a contract between a host and guests to ensure that no one is cheating.
+1. The owner of the contract will be the host since he is the only one who can pour water, as we know the bottle can only fill 3 cups so the first one is for the host, and the 2  remaining cups will be for two winners of the guests.
+2. the owner will take the position of the head and the tail of the row and encrypt them, then randomize the whole positions of the row.
+3. add a method tht checks all the cups are in the row. check the identity of the owner before decrypting the positions and filling the cups.
+4. add a method that helps guests to transfer the ownership of the cup  to another guest after checking that they are the real owners of the non-empty cups.
