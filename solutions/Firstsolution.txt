@@ -1,1 +1,7 @@
 
+In this case, it is likely that the guests will try to find a way to get the most cups of water for themselves while still following the rules that you have set.
+I think that one strategy that they might use is to try to be the first one or the last one to put their cup on the table, since the first and last cups will be filled with water.
+They might try to race to put their cup in the first position or they might try to sneakily place their cup in the first position while you are not looking.
+To avoid a deadlock, it might be helpful to establish a clear and fair rule for determining who gets to put their cup in the first position. For example, you could have each guest draw a number to determine the order in which they can place their cups on the table.
+If any guest tries to cheat by swapping cups or moving them after they have been placed, you could disqualify them from the game and fill the cups for the remaining guests.
+Overall, it is important to establish clear and fair rules for the game and to enforce them consistently to prevent any cheating or deadlocks. By following these guidelines, it should be possible to find a good compromise and avoid a deadlock in this situation.
