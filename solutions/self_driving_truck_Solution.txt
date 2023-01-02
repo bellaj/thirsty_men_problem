@@ -1,0 +1,13 @@
+
+If the guests are smart they will pick a strategy for winning, playing fast to take the first place and win immediatly or wait to take the last place.
+
+#1-Behavior
+	a group of them will jump to take the first place, so one of them will win and if there is the others "the same group" they will lose.
+While The rest of them will wait the right moment to be the last one to put, here a critical situation will came up
+so no one will put his cup, they will all wait.
+
+#2-Deadlock
+
+	After the first move is done (the first place is token) if there is reminders we suppose that they must agree on a deal that make the probability of winning equal for all of them so that no one has a profit from will keeping the cup , instead they will try to put it to end of game.
+
+The first winner is the right person to do the shuffle prosses because he wont be able to get the watter if they hold there cups also he is the only one of the guests that got nothing to lose from cheating cause he alredy insured his cup if they all put theirs
