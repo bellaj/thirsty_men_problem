@@ -1,1 +1,19 @@
-
+I propose the following solution to the deadlock problem:
+The visitors will immediately rush to watch how he would prepare his cup first. In this instance, there will be only one winner. The winner has no incentive to cheat, and he wants to break the tie so he can drink which makes him trustworthy. He will establish a variety of regulations based on elimination, and the loser must instantly place his cup and the last will win. Why must the rules be based on elimination? Because if a loser complains and refuses to place his cup, he will constantly be in a poor position, and the other players will force him.
+To convince the guests to follow those rules, they must have a high probability to win. I thought about a game where it seems that each player has a high probability of winning. Let’s suppose we have N players. The rules as follow:
+-	Each player will be assigned a number from 1 to N.
+-	In each round every 2 players will challenge each other.
+-	A player will only lose against the player next to him (Player number K loses against player number K+1 otherwise he wins).
+-	Player number N loses against player number 1 (It’s cyclic).
+-	The loser must put his cup immediately.
+-	If a player K is eliminated player K-1 loses against K+1 and so on (if all players between X and Y are eliminated X loses against Y).
+-	In a given round, If the number of players is odd. The player who remains will be the first player to participate in the next round.
+-	The results must be shared in front of all guests to ensure transparency. (The guest who put his cup first will be in charge).
+-	For the last remaining 2 players we will add their numbers if the sum bigger than N the lower wins else the higher wins (no number will give them advantage).
+-	A player can challenge another player if they agreed both of them otherwise the players will be picked randomly (If a player won’t to be picked randomly, he must find another player to play against).
+-	A player can’t play 2 times in the same round and all remaining must play (except the case of odd number).
+Using those rules, it seems that the probability of winning for each player in a round is (k-2)/(k-1) when k is the number of players in that round. This probability is pretty high.
+How guest can cheat?
+The problems with the rules I just mentioned is that each player will know the number of other players after the first round. To avoid this problem, well can an additional rule:
+-	Players can exchange their numbers between round as many times they can.
+This my proper solution for the problem. I hope you like it.
