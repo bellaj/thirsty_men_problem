@@ -1,1 +1,48 @@
+The "Thirsty Men Problem" involves a group of men who are stranded in the desert and must decide how to ration a finite supply of water. 
+The problem can be stated as follows:
 
+There are 'n' men and 'm' jugs of water. Each man has a certain thirst level, represented by a positive integer.
+A man can drink from a jug to decrease his thirst by an amount equal to the amount of water in the jug. However, once a jug is empty, it cannot be refilled. 
+The goal is to determine the minimum amount of water that must be consumed in order to satisfy the thirst of all n men.
+
+One approach to solving this problem is to use a greedy algorithm. The idea is to start by having each man drink from the jug with the most water first.
+This will satisfy the thirst of the most men possible, and will also minimize the amount of water wasted.
+
+To implement this algorithm, we can use the following steps:
+
+Sort the jugs of water in descending order by the amount of water they contain.
+For each man, starting with the thirstiest:
+Have the man drink from the jug with the most water first.
+If the man's thirst is not fully satisfied, move on to the next-largest jug and repeat until the man's thirst is satisfied.
+Repeat this process for all n men.
+This algorithm is guaranteed to find a solution that satisfies the thirst of all n men, as long as the total amount of water in the jugs is sufficient. It is also efficient, with a time complexity of O(n * m log m) (assuming a stable sort algorithm is used to sort the jugs).
+
+Here is some example code in Python that demonstrates how this algorithm could be implemented:
+
+def thirsty_men(n: int, m: int, thirst: List[int], jugs: List[int]) -> int:
+    # Sort the jugs in descending order by the amount of water they contain
+    jugs.sort(reverse=True)
+
+    # Keep track of the total amount of water consumed
+    total_water = 0
+
+    # For each man, starting with the thirstiest:
+    for i in range(n):
+        # Have the man drink from the jug with the most water first
+        for j in range(m):
+            if thirst[i] == 0:
+                # The man's thirst is satisfied, move on to the next man
+                break
+            elif thirst[i] > jugs[j]:
+                # The man's thirst is not fully satisfied, but the jug is empty
+                thirst[i] -= jugs[j]
+                total_water += jugs[j]
+                jugs[j] = 0
+            else:
+                # The man's thirst is fully satisfied
+                total_water += thirst[i]
+                jugs[j] -= thirst[i]
+                thirst[i] = 0
+                break
+
+    return total_water
