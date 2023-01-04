@@ -1,1 +1,13 @@
-
+My solution to the problem is as follows:
+1. Every participant writes his name under the cup at the bottom and puts the cup on the table in any place.
+2. Host chooses the first winner. Winner puts his cup in the first place and mixes the rest of the cups and puts them in one row. 
+Names are hidden in the bottom under the cup so he will not see written names. The first winner is alredy the winner, so he is not
+interested in cheating, but in case he tries to cheat and look at the names he get's kicked out from the house by the majority and
+new first winner is chosen by the host. This is how Randomness will be implemented (non-interested person mixes the cups with hidden names).
+3. Cups are now put in the row, host pours the water into first and last cups. At this stage nobody knows who is  the second winner.
+First winner drinks his water. According to rules, a guest can drink only from his cup, therefore first winner will not drink from the last cup.
+4. First winner turns the second cup and announces the name on it. Loser get's kicked out of the house.  He can't cheat and stay,
+because the remaining majority will force him to leave.
+5. First winner turns the third cup. Announces the name. Next loser is being kicked out by the majority.
+6. Game continues until all names on empty cups are revealed one by one and all loosers are kicked out (one by one) by majority.
+7. The participant who remains is the second winner and can now drink his water.
