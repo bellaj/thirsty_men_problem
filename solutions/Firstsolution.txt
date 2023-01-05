@@ -1,1 +1,5 @@
-
+it's a little bit vague, so to avoid a deadlock I will set some rules:
+I know that the number of guest is : 2<N<15
+1- So they should form groups of two, thiss will good if N is even, if not, the remaining guest (not chosen as a partner), will automatically considered as a loser.
+2- Each one of groups formed will start putting cups
+3- If one of the partners succeded to put his cup in first or last position, they bouth will share the water
