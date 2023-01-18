@@ -1,1 +1,8 @@
 
+In this scenario, it is likely that the guests will try to cheat in order to get a cup of water. 
+They may try to move cups around on the table or place multiple cups in the first or last position
+in order to increase their chances of getting a filled cup.
+A possible solution to avoid a deadlock would be to assign a specific order for the guests to place
+their cups on the table. This could be done by assigning numbers to each guest and having them place 
+their cups in numerical order. This would ensure that only one cup is in the first and last positions 
+at a time, preventing guests from placing multiple cups in those positions.
