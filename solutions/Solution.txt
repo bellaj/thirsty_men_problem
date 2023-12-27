@@ -30,10 +30,9 @@ Analysis:
 
 
 ii) By Chance:
-	This is a very simple yet very effective way to solve this problem. Here, N similar-looking cube cards will be taken and each will be numbered from 1 to N
-indicating the position of the cup on the table. Every guest will be requested to select a cube card of his/her choice. Once all the cards are chosen everyone
-will be requested to show the number written on the back of the cube card. The guests with numbers 1 and N will be provided with a cup of water. In this way, the
-chaos can be avoided and water can be distributed to the guest.
+	This is a very simple yet very effective way to solve this problem. Here, N similar-looking cube cards will be taken and each will be numbered from
+1 to N indicating the position of the cup on the table. Every guest will be requested to select a cube card of his/her choice. Once all the cards are chosen everyone will be requested to show the number written on the back of the cube card. The guests with numbers 1 and N will be provided with a cup of water.
+In this way, the chaos can be avoided and water can be distributed to the guest.
 Analysis:
 -This approach relies on chance and randomness.
 -It avoids chaos and ensures a fair distribution of water.
