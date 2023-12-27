@@ -30,7 +30,10 @@ Analysis:
 
 
 ii) By Chance:
-	This is a very simple yet very effective way to solve this problem. Here, N similar-looking cube cards will be taken and each will be numbered from 1 to N indicating the position of the cup on the table. Every guest will be requested to select a cube card of his/her choice. Once all the cards are chosen everyone will be requested to show the number written on the back of the cube card. The guests with numbers 1 and N will be provided with a cup of water. In this way, the chaos can be avoided and water can be distributed to the guest.
+	This is a very simple yet very effective way to solve this problem. Here, N similar-looking cube cards will be taken and each will be numbered from 1 to N
+indicating the position of the cup on the table. Every guest will be requested to select a cube card of his/her choice. Once all the cards are chosen everyone
+will be requested to show the number written on the back of the cube card. The guests with numbers 1 and N will be provided with a cup of water. In this way, the
+chaos can be avoided and water can be distributed to the guest.
 Analysis:
 -This approach relies on chance and randomness.
 -It avoids chaos and ensures a fair distribution of water.
@@ -38,7 +41,10 @@ Analysis:
 
 
 iii) By Cooperation:
-	This approach is for cooperative guests who can gel with each other to solve without having a clash of interests. As the name suggests, here the cooperation among the guests plays a vital role in reaching to solution. According to the rules, a guest can share a cup of water if he/she wants. So, in this approach, N/2 guests can form a group with each other and agree to get a single cup of water for the whole group. If there are an odd number of guests, any one group can have a person extra. This might sound like the obvious yet ineffective solution but it might solve the problem.
+	This approach is for cooperative guests who can gel with each other to solve without having a clash of interests. As the name suggests, here the 
+cooperation among the guests plays a vital role in reaching to solution. According to the rules, a guest can share a cup of water if he/she wants. So, in this 
+approach, N/2 guests can form a group with each other and agree to get a single cup of water for the whole group. If there are an odd number of guests, any one 
+group can have a person extra. This might sound like the obvious yet ineffective solution but it might solve the problem.
 Analysis:
 -Cooperative guests avoid conflicts and work together to get a cup.
 -Odd-numbered groups might have an extra person.
