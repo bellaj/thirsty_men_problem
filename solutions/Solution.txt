@@ -1,0 +1,53 @@
+Solution of Thirsty men problem
+
+I propose 3 different approaches to this problem. All three use different yet effective approaches to solve the problem. The three approaches are:
+	i) By Strategy
+	ii) By Chance
+	iii) By Cooperation
+	
+
+i) By Strategy:
+	Well, this is the most exciting solution to the problem. Here, the planning and strategy-making capability of the guests will be tested.
+This solution is explained below:
+Procedure:
+1) Cups, named after guests, are randomly arranged on the table by the host.
+2) Guests are moved to another room and called in one by one.
+3) In the room, each guest shuffles the cups.
+4) After the completion of the process, the host fills the first and last cups on the table with water.
+
+Rules:
+1) Each guest is randomly called by the host exactly twice, using a lottery system to avoid personal preferences.
+2) Upon being called, a guest has two options: move two cups of choice except own or do nothing, earning a chance in the next call to move their cup by one position.
+3) Guests have 30 seconds for calculations and cup movements to enhance their winning probability.
+4) Guests can bluff or mislead others through verbal cues or coded messages.
+5) Failure to act within the time limit results in a loss of opportunity.
+
+Analysis:
+-The strategy-based approach engages guests in a dynamic and competitive process.
+-Elements of chance, psychology, and quick thinking contribute to the excitement.
+-The game tests guests' planning capabilities and ensures a fair and strategic water distribution.
+-The combination of rules provides an entertaining challenge for the participants.
+
+
+ii) By Chance:
+	This is a very simple yet very effective way to solve this problem. Here, N similar-looking cube cards will be taken and each will be numbered from
+1 to N indicating the position of the cup on the table. Every guest will be requested to select a cube card of his/her choice. Once all the cards are chosen everyone will be requested to show the number written on the back of the cube card. The guests with numbers 1 and N will be provided with a cup of water.
+In this way, the chaos can be avoided and water can be distributed to the guest.
+Analysis:
+-This approach relies on chance and randomness.
+-It avoids chaos and ensures a fair distribution of water.
+-The potential issue is that there's no guarantee that the guests with the first and last cups are the most deserving or strategic.
+
+
+iii) By Cooperation:
+	This approach is for cooperative guests who can gel with each other to solve without having a clash of interests. As the name suggests, here the 
+cooperation among the guests plays a vital role in reaching to solution. According to the rules, a guest can share a cup of water if he/she wants. So, in this 
+approach, N/2 guests can form a group with each other and agree to get a single cup of water for the whole group. If there are an odd number of guests, any one 
+group can have a person extra. This might sound like the obvious yet ineffective solution but it might solve the problem.
+Analysis:
+-Cooperative guests avoid conflicts and work together to get a cup.
+-Odd-numbered groups might have an extra person.
+
+
+
+		
