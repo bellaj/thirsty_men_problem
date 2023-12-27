@@ -7,7 +7,8 @@ I propose 3 different approaches to this problem. All three use different yet ef
 	
 
 i) By Strategy:
-	Well, this is the most exciting solution to the problem. Here, the planning and strategy-making capability of the guests will be tested. This solution is explained below:
+	Well, this is the most exciting solution to the problem. Here, the planning and strategy-making capability of the guests will be tested.
+This solution is explained below:
 Procedure:
 1) Cups, named after guests, are randomly arranged on the table by the host.
 2) Guests are moved to another room and called in one by one.
